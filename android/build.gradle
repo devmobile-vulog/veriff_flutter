@@ -58,7 +58,7 @@ dependencies {
      */
     devImplementation files('libs/flutter.jar')
 
-    implementation 'com.facebook.fresco:fresco:3.2.0'
+    implementation 'com.facebook.fresco:fresco:2.6.0'
 
     testImplementation 'junit:junit:4.13.2'
     testImplementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
