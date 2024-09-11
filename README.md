@@ -1,6 +1,8 @@
 # veriff_flutter
 
-Flutter plugin for [Veriff](https://www.veriff.com/).
+Forked Flutter plugin for [Veriff](https://www.veriff.com/).
+
+with fresco Android library bumped
 
 ### Requirements
 
